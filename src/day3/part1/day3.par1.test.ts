@@ -1,5 +1,5 @@
 import { run } from './day3.part1';
-import { input } from './input';
+import { input } from '../input';
 
 describe('useEngagement', () => {
   test('example input', () => {
